@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saad Ali Khan</h1>
-<h3 align="center">Web3 dev from Pakistan</h3>
+<h3 align="center">Fullstack from Pakistan</h3>
 <p align="left"> <a href="https://twitter.com/saad_niaxi" target="blank"><img src="https://img.shields.io/twitter/follow/saad_niaxi?logo=twitter&style=for-the-badge" alt="saad_niaxi" /></a> </p>
 
-- 🌱 I’m currently learning **veim, wagmi, material Ui**
+- 🌱 I’m currently learning **typescript, nextjs, shadcn**
 
-- 💬 Ask me about **react , web3**
+- 💬 Ask me about **react , node, web3**
 
 - 📫 How to reach me **saad.niaxi47@gmail.com**
 
