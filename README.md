@@ -134,8 +134,9 @@ timeline
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaadNiaziDev&show_icons=true&locale=en&theme=transparent&hide_border=true&count_private=true&bg_color=0D1117&title_color=4FC3F7&icon_color=FF8F00&text_color=E6EDF3" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadNiaziDev&layout=compact&theme=transparent&hide_border=true&langs_count=8&bg_color=0D1117&title_color=4FC3F7&text_color=E6EDF3" alt="Top languages" />
+<!-- Official github-readme-stats.vercel.app is paused (503). Using community mirror. -->
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=SaadNiaziDev&show_icons=true&locale=en&theme=transparent&hide_border=true&count_private=true&bg_color=0D1117&title_color=4FC3F7&icon_color=FF8F00&text_color=E6EDF3" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SaadNiaziDev&layout=compact&theme=transparent&hide_border=true&langs_count=8&bg_color=0D1117&title_color=4FC3F7&text_color=E6EDF3" alt="Top languages" />
 
 <br/>
 
@@ -147,7 +148,10 @@ timeline
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SaadNiaziDev&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
+<!-- Trophy host is disabled (402). Using profile summary cards instead. -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaadNiaziDev&theme=github_dark" alt="Profile stats card" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaadNiaziDev&theme=github_dark" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaadNiaziDev&theme=github_dark" alt="Most commit language" />
 
 </div>
 
