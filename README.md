@@ -2,141 +2,110 @@
 
 <div align="center">
 
-# Saad Ali Khan
+# Hi, I'm Saad Ali Khan 👋
 
-### Senior Full-Stack Engineer · Co-Founder @ [TabTechify](https://tabtechify.com)
+### Senior Full-Stack Engineer · Lahore, Pakistan
 
-**~5 years** shipping production products across React, Next.js, Node.js, Vue, Frappe & Flutter  
-**30+ products** · AgTech ERP · Healthcare AI · Web3 · Marketplaces
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;Vue+3+%C2%B7+Frappe+%2F+ERPNext+%C2%B7+Flutter;Web3+%C2%B7+AI+Integrations+%C2%B7+Offline-first+PWAs;~5+years+shipping+30%2B+production+products" alt="Typing SVG" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ali-khan-043b021b1/)
 [![Email](https://img.shields.io/badge/Email-devsaadk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsaadk@gmail.com)
-[![Website](https://img.shields.io/badge/TabTechify-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tabtechify.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SaadNiaziDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaadNiaziDev)
 [![X](https://img.shields.io/badge/X-@saad__niaxi-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/saad_niaxi)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923166423134)
 
-<img src="https://komarev.com/ghpvc/?username=SaadNiaziDev&style=flat-square&color=0e75b6" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=SaadNiaziDev&style=flat-square&color=58A6FF" alt="Profile views" />
 
 </div>
 
 ---
 
-## Who I am
+## At a glance
 
-I don't just write tickets — I **own features end-to-end**: UI → API → database → deploy.
+<div align="center">
 
-Based in **Lahore, Pakistan**. I've grown from intern → associate → developer → fullstack engineer, co-founded a software house, and shipped across domains that actually matter: **offline field tools for farmers**, **AI healthcare products**, **Web3 dApps**, and **gig marketplaces**.
+| 🗓️ Experience | 🚀 Products | 🌍 Focus | 📍 Based |
+|:---:|:---:|:---:|:---:|
+| **~5 years** | **30+ shipped** | **Full-stack · Web3 · AI** | **Lahore, PK** |
 
-> *In a decentralized world, trust no node, trust no one.* — except good code reviews.
+</div>
 
-**Ask me about:** React / Next.js · Node.js · TypeScript · Vue 3 · Frappe/ERPNext · Web3 · AI integrations · offline-first PWAs · real-time (WebRTC / Socket.io)
-
----
-
-## What I bring
-
-| | |
-|---|---|
-| **Ownership** | Primary builder on products like fixTop (234+ commits) and deep modules on Waseela OS (HR, crop credit, offline sync) |
-| **Full-stack range** | React, Next.js, Vue 3, Node/Express, Python/Frappe, Flutter — pick the stack the product needs |
-| **Production mindset** | Sentry, postmortems, hotfixes, reviews, CI-aware workflows — ship, then make it harder to break |
-| **User context** | Offline-first for field teams, trust tiers on marketplaces, real patients/doctors on healthcare AI |
-| **Founder energy** | Co-founder of [TabTechify](https://tabtechify.com) — client delivery + product standards |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,express,python,mongodb,postgres,redis,docker,aws,vercel,cloudflare,git,figma,flutter" />
+</p>
 
 ---
 
-## Experience snapshot
+## What I ship
 
-```text
-Nov 2024 – Present     Fullstack Engineer ........ Waseela (AgTech ERP / Frappe 15)
-Nov 2024 – Mar 2025    Software Engineer ......... DIN Global / Kisaan (KMS)
-Jun 2023 – Nov 2024    Software Developer ........ Metadots (AI, SaaS, marketplaces)
-May 2022 – Jun 2023    Associate Developer ....... Metadots (Web3 / dApps)
-Dec 2021 – May 2022    Intern .................... Metadots
-Sep 2025 – Present     Co-Founder & Senior Dev ... TabTechify (side venture)
+<div align="center">
+
+| 🌾 AgTech ERP | 🏥 Healthcare AI | 🛒 Marketplaces | ⛓️ Web3 |
+|:---:|:---:|:---:|:---:|
+| Waseela OS · Frappe 15 | FixtopAI · Lumed · Remedy+ | FixTop · MediaProQuo | Staking · NFT · dApps |
+| Offline field UX | WebRTC · OpenAI · STT | Stripe · Socket.io | Wagmi · WalletConnect |
+| Crop credit · HR · maps | LangChain · AssemblyAI | Gig & home services | Crypto payments |
+
+</div>
+
+---
+
+## Journey
+
+```mermaid
+timeline
+    title Career path
+    2021 : Intern @ Metadots
+    2022 : Associate · Web3 / dApps
+    2023 : Software Developer · AI & SaaS
+    2024 : Fullstack @ Waseela · Kisaan KMS
+    2025–26 : AgTech ERP · Offline-first · Geospatial
 ```
 
-**Currently:** Building **Waseela OS** — multi-app Frappe/ERPNext agricultural platform (crop credit, offline sync, geospatial, HR) across 24+ custom apps. Vue desk SPAs, Python APIs, service workers + IndexedDB for field officers without connectivity.
+---
 
-**Previously at Metadots:** Led frontend on **Fixtops** (WebRTC, AI chat, speech-to-text), shipped **MediaProQuo** gig marketplace, and built Web3 products (staking, NFT marketplace, Voting DAO).
+## Featured builds
+
+<div align="center">
+
+| Product | Stack | Link |
+|:---|:---|:---|
+| **Waseela OS** | Vue 3 · Frappe · Offline · Leaflet | AgTech platform |
+| **FixtopAI** | React · WebRTC · Node · AI | [fixtops.org](https://staging.fixtops.org/) |
+| **Lumed** | React · OpenAI · LangChain | [lumed.ai](https://app.lumed.ai/) |
+| **FixTop** | React · Express · Stripe · Socket.io | Home-services SaaS |
+| **MediaProQuo** | React · TS · Redis · Stripe | Creator marketplace |
+| **Kisaan KMS** | Docker · Microservices · Next | [kisaangroup.pk](https://kisaangroup.pk/) |
+
+</div>
 
 ---
 
-## Featured work
+## Stack
 
-<table>
-<tr>
-<td width="50%">
-
-### AgTech & enterprise
-- **Waseela OS** — Frappe 15 / ERPNext crop credit, offline field UX, Leaflet maps, HR extensions
-- **Kisaan KMS** — Dockerized agri microservices ([kisaangroup.pk](https://kisaangroup.pk/))
-
-### AI / healthcare
-- **FixtopAI** — Virtual doctor · WebRTC · STT · [staging.fixtops.org](https://staging.fixtops.org/)
-- **Lumed** — Virtual doctor · OpenAI / LangChain · [app.lumed.ai](https://app.lumed.ai/)
-- **Remedy+** — Clinical AI · AssemblyAI · prescriptions
-
-</td>
-<td width="50%">
-
-### Marketplaces & product
-- **fixTop** — Home-services SaaS · Stripe · Socket.io · OpenAI
-- **MediaProQuo** — Creator gig marketplace · Stripe · Redis
-- **TabTechify** — Software house · [tabtechify.com](https://tabtechify.com)
-
-### Web3
-- Token lockers, staking, NFT-gated apps, crypto payments
-- Wagmi · WalletConnect · Moralis · Alchemy · Metamask
-
-</td>
-</tr>
-</table>
-
----
-
-## Stack I ship with
-
-### Languages & core
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<div align="center">
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,redux,html,css" />
 
 ### Backend & data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Frappe](https://img.shields.io/badge/Frappe%20%2F%20ERPNext-0089FF?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,redis,supabase,prisma" />
 
-### Mobile, realtime & AI
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+### Mobile · cloud · tools
+<img src="https://skillicons.dev/icons?i=flutter,docker,aws,vercel,cloudflare,githubactions,postman,git" />
 
-### Web3 & cloud
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square)
-![Wagmi](https://img.shields.io/badge/Wagmi-1C1E21?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<br/><br/>
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Frappe](https://img.shields.io/badge/-Frappe%20%2F%20ERPNext-0089FF?style=for-the-badge)
+![Web3](https://img.shields.io/badge/-Web3-F16822?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+</div>
 
 ---
 
@@ -144,8 +113,8 @@ Sep 2025 – Present     Co-Founder & Senior Dev ... TabTechify (side venture)
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SaadNiaziDev&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="SaadNiaziDev stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadNiaziDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaadNiaziDev&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadNiaziDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/>
 
@@ -153,36 +122,30 @@ Sep 2025 – Present     Co-Founder & Senior Dev ... TabTechify (side venture)
 
 <br/>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaadNiaziDev&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaadNiaziDev&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SaadNiaziDev&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 
 </div>
 
 ---
 
-## How I work
-
-- **Ship value, then refine** — MVP → real users → iterate
-- **Respect the user's context** — offline, low connectivity, trust, compliance
-- **Leave code better than you found it** — reviews, patches, incremental remediation
-- **Document as respect** — handoffs, setup guides, postmortems over blame
-
----
-
-## Let's build something
-
-Open to **remote / hybrid** opportunities where ownership, craft, and shipping matter.
-
-**Email:** [devsaadk@gmail.com](mailto:devsaadk@gmail.com) · **Alt:** [saad.niaxi47@gmail.com](mailto:saad.niaxi47@gmail.com)  
-**LinkedIn:** [saad-ali-khan](https://www.linkedin.com/in/saad-ali-khan-043b021b1/)  
-**WhatsApp:** [+92 316 6423134](https://wa.me/+923166423134)  
-**Company:** [tabtechify.com](https://tabtechify.com)
-
----
+## Let's talk
 
 <div align="center">
 
-**Builder first. Full-stack ownership. Production over perfection theater.**
+**Open to remote / hybrid roles where ownership & shipping matter.**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+<br/>
+
+[![Email](https://img.shields.io/badge/devsaadk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsaadk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ali-khan-043b021b1/)
+[![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923166423134)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 
 </div>
