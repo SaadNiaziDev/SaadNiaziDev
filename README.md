@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0288D1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saadniazidev.netlify.app/)
+[![saadalikhan.dev](https://img.shields.io/badge/saadalikhan.dev-0288D1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saadalikhan.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ali-khan-043b021b1/)
 [![Email](https://img.shields.io/badge/Email-FF8F00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsaadk@gmail.com)
 [![X](https://img.shields.io/badge/X-263238?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/saad_niaxi)
