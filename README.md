@@ -2,12 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=180&section=header&text=Saad%20Ali%20Khan&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20Lahore%2C%20Pakistan&descAlignY=55&descSize=16" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=180&section=header&text=Saad%20Ali%20Khan&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Engineer%20%C2%B7%20Lahore%2C%20Pakistan&descAlignY=55&descSize=16" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&multiline=true&width=700&height=60&lines=~5+years+%C2%B7+30%2B+products+%C2%B7+React+%C2%B7+Next+%C2%B7+Node+%C2%B7+Vue+%C2%B7+Web3+%C2%B7+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&multiline=true&width=700&height=60&lines=~5+years+%C2%B7+30%2B+products+%C2%B7+React+%C2%B7+Next+%C2%B7+Node+%C2%B7+Vue+%C2%B7+Flutter+%C2%B7+AI" alt="Typing SVG" />
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0288D1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saadniazidev.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ali-khan-043b021b1/)
 [![Email](https://img.shields.io/badge/Email-FF8F00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsaadk@gmail.com)
 [![X](https://img.shields.io/badge/X-263238?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/saad_niaxi)
@@ -29,7 +30,7 @@
 
 ![Years](https://img.shields.io/badge/~5_Years-Experience-0288D1?style=for-the-badge&labelColor=0D1117)
 ![Products](https://img.shields.io/badge/30%2B-Products_Shipped-FF8F00?style=for-the-badge&labelColor=0D1117)
-![Focus](https://img.shields.io/badge/Full--stack_%C2%B7_Web3_%C2%B7_AI-Focus-00897B?style=for-the-badge&labelColor=0D1117)
+![Focus](https://img.shields.io/badge/Full--stack_%C2%B7_Mobile_%C2%B7_AI-Focus-00897B?style=for-the-badge&labelColor=0D1117)
 ![Loc](https://img.shields.io/badge/Lahore%2C_PK-Based-455A64?style=for-the-badge&labelColor=0D1117)
 
 </div>
@@ -48,10 +49,10 @@
 
 <div align="center">
 
-| 🌾 AgTech ERP | 🏥 Healthcare AI | 🛒 Marketplaces | ⛓️ Web3 |
-|:---:|:---:|:---:|:---:|
-| ![AgTech](https://img.shields.io/badge/Waseela_OS-2E7D32?style=for-the-badge) | ![AI](https://img.shields.io/badge/FixtopAI_%C2%B7_Lumed-C62828?style=for-the-badge) | ![Mkt](https://img.shields.io/badge/FixTop_%C2%B7_MPQ-1565C0?style=for-the-badge) | ![Web3](https://img.shields.io/badge/Staking_%C2%B7_NFT_%C2%B7_dApps-6A1B9A?style=for-the-badge) |
-| Offline · Crop credit · Maps | WebRTC · OpenAI · STT | Stripe · Socket.io | Wagmi · WalletConnect |
+| 🌾 AgTech ERP | 📱 Mobile | 🏥 Healthcare AI | 🛒 Marketplaces | ⛓️ Web3 |
+|:---:|:---:|:---:|:---:|:---:|
+| ![AgTech](https://img.shields.io/badge/Waseela_OS-2E7D32?style=for-the-badge) | ![Mobile](https://img.shields.io/badge/DuoFrame_%C2%B7_Rider_app-0288D1?style=for-the-badge) | ![AI](https://img.shields.io/badge/FixtopAI_%C2%B7_Lumed-C62828?style=for-the-badge) | ![Mkt](https://img.shields.io/badge/FixTop_%C2%B7_MPQ-1565C0?style=for-the-badge) | ![Web3](https://img.shields.io/badge/Staking_%C2%B7_NFT_%C2%B7_dApps-6A1B9A?style=for-the-badge) |
+| HR · Crop credit · Maps | Flutter · Widgets · GPS | WebRTC · OpenAI · STT | Stripe · Socket.io | Wagmi · WalletConnect |
 
 </div>
 
@@ -69,7 +70,8 @@ timeline
     2022 : Associate · Web3 / dApps
     2023 : Software Developer · AI & SaaS
     2024 : Fullstack @ Waseela · Kisaan KMS
-    2025–26 : AgTech ERP · Offline-first · Geospatial
+    2025 : AgTech ERP · HR · Crop credit
+    2026 : Rider app & GPS · DuoFrame · Open source (dygo)
 ```
 
 ---
@@ -84,7 +86,11 @@ timeline
 
 | Product | Stack | Type |
 |:---|:---|:---|
-| ![Waseela](https://img.shields.io/badge/Waseela_OS-2E7D32?style=flat-square) | Vue 3 · Frappe · Offline · Leaflet | AgTech platform |
+| ![DuoFrame](https://img.shields.io/badge/DuoFrame-E91E63?style=flat-square) | Flutter · Next.js · Supabase · Cloudflare R2 | Photo widget app, live on Play |
+| ![Sales Partner](https://img.shields.io/badge/Waseela_Sales_Partner-2E7D32?style=flat-square) | Flutter · Frappe · Python · GPS | Delivery rider app |
+| ![Cadence](https://img.shields.io/badge/Cadence-0288D1?style=flat-square) | Django · React · TypeScript · MapLibre | Truck HOS trip planner |
+| ![Waseela](https://img.shields.io/badge/Waseela_OS-2E7D32?style=flat-square) | Vue 3 · Frappe · Python · Leaflet | AgTech platform |
+| ![dygo](https://img.shields.io/badge/dygo-00ADD8?style=flat-square&logo=go&logoColor=white) | Go · Vue 3 | Open source, 8 merged PRs |
 | ![FixtopAI](https://img.shields.io/badge/FixtopAI-C62828?style=flat-square) | React · WebRTC · Node · AI | Virtual doctor |
 | ![Lumed](https://img.shields.io/badge/Lumed-5C6BC0?style=flat-square) | React · OpenAI · LangChain | Healthcare AI |
 | ![FixTop](https://img.shields.io/badge/FixTop-1565C0?style=flat-square) | React · Express · Stripe · Socket.io | Home-services SaaS |
